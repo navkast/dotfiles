@@ -22,6 +22,7 @@ bind pad0:alt,ctrl throw 0 resize
 bind pad1:alt,ctrl throw 1 resize
 bind pad2:alt,ctrl throw 2 resize
 bind pad3:alt,ctrl throw 3 resize
+bind e:cmd      throw 0 resize
 
 # Window Hints
 bind esc:cmd hint
